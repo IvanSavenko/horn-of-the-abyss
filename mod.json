@@ -673,5 +673,10 @@
 		"translations" : [
 			"translation/swedish.json"
 		]
+	},
+	"korean" : {
+		"translations" : [
+			"translation/korean.json"
+		]
 	}
 }

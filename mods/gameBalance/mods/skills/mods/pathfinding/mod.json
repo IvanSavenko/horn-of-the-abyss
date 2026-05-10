@@ -93,5 +93,10 @@
 		"translations" : [
 			"translation/ukrainian.json"
 		]
+	},
+	"korean" : {
+		"translations" : [
+			"translation/korean.json"
+		]
 	}
 }
